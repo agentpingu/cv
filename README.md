@@ -2,5 +2,5 @@
 </br>
 <b>NOTE: This CV is accessible at https://ynikhily.github.io/cv/ </b></br>
 </br>
-- This is my CV rendered using pure HTML.
-- Check out my other CV as well created using HTML and CSS.
+- This is my CV rendered using pure HTML.</br>
+- Check out my other CV as well created using HTML and CSS.</br>
